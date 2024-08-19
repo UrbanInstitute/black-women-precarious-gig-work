@@ -19,6 +19,12 @@ Research: Ofronama Biu and Afia Adu-Gyamfi
 
 Editing: Alex Dallman
 
+### Hosting Location (`/lines` and `/maps` endpoints)
+
+Production: https://apps.urban.org/features/black-women-precarious-gig-work
+
+Drupal page: https://urban.org/data-tools/black-women-precarious-gig-work
+
 ## Data
 
 ### Output Data (`R/data-output/` and `$data/`)
