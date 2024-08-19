@@ -19,16 +19,6 @@ Research: Ofronama Biu and Afia Adu-Gyamfi
 
 Editing: Alex Dallman
 
-### Hosting Location (`/lines` and `/maps` endpoints)
-
-Dev: https://apps-staging.urban.org/features/dev/precarious-work
-
-Staging: https://apps-staging.urban.org/features/precarious-work
-
-Production: TODO
-
-Drupal page: TODO
-
 ## Data
 
 ### Output Data (`R/data-output/` and `$data/`)
