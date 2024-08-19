@@ -1,0 +1,55 @@
+{
+  "characteristic": {
+    "values": {
+      "temp": "Temporary Workers",
+      "indie": "Independent Contractors",
+      "contract": "Contract Workers",
+      "parttime": "Part-time Workers",
+      "retirement": "Retirement Coverage",
+      "health": "Health Insurance Coverage",
+      "salary": "Wages"
+    },
+    "label": "Work Characteristic",
+    "prefix": {
+      "temp": "employ",
+      "indie": "employ",
+      "contract": "employ",
+      "parttime": "employ",
+      "retirement": "have low",
+      "health": "have low",
+      "salary": "have low"
+    }
+  },
+  "identity": {
+    "values": {
+      "all": "All",
+      "di": "Disabled",
+      "nodi": "Not Disabled",
+      "latinx": "Latinx",
+      "noncit": "Noncitizen"
+    },
+    "beginningSentenceCaseValues": {
+      "all": "All",
+      "di": "Disabled",
+      "nodi": "Not disabled",
+      "latinx": "Latinx",
+      "noncit": "Noncitizen"
+    },
+    "sentenceCaseValues": {
+      "all": "all",
+      "di": "disabled",
+      "nodi": "not disabled",
+      "latinx": "Latinx",
+      "noncit": "noncitizen"
+    },
+    "label": "Black women identity"
+  },
+  "comparison": {
+    "values": {
+      "wm": "White Men",
+      "bm": "Black Men",
+      "ww": "White Women"
+    },
+    "label": "Comparison identity"
+  }
+}
