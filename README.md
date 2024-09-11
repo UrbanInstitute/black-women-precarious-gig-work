@@ -61,11 +61,13 @@ Note: `$data` is shorthand for `src/data`
 Simple toggle between two Datawrapper charts. Be sure that the two charts show as the same height in order to avoid height flickering on toggle change. One of the charts had a different y axis max so the height was rendering different from the other.
 
 Chart 2 (all): https://www.datawrapper.de/_/tbQ0D/
+
 Chart 2 (crowded in only): https://www.datawrapper.de/_/NPqXN/
 
 ## Charts 3 & 4: Standalone Datawrapper Charts in the CMS
 
 Chart 3: https://www.datawrapper.de/_/iplKP/
+
 Chart 4: https://www.datawrapper.de/_/fCvxa/
 
 ## Tool (`routes/tool` and `$components/Tool`)
