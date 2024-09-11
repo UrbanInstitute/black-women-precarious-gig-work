@@ -62,7 +62,8 @@
       role="button"
       tabindex="0"
       aria-label="Clear search input"
-      on:click={handleXClick}><IconX fill="#353535" /></span
+      on:click={handleXClick}
+      on:keypress={handleXClick}><IconX fill="#353535" /></span
     >
   {:else}
     <span class="icon-container icon-search"><IconSearch fill="#353535" /></span>
