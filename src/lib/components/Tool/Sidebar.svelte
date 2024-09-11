@@ -219,6 +219,10 @@
     cursor: pointer;
   }
 
+  .clear-selection-label:focus {
+    outline: auto;
+  }
+
   .no-data {
     display: flex;
     font-size: var(--font-size-xl);
