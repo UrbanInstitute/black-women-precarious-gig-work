@@ -7,7 +7,7 @@
 <PymChild polling={250} />
 
 <FontsUrban />
-<Analytics title="precarious-work" mode={import.meta.env.MODE} />
+<Analytics title="black-women-precarious-gig-work" mode={import.meta.env.MODE} />
 <Theme>
   <slot />
 </Theme>
