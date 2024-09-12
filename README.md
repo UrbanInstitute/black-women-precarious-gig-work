@@ -1,4 +1,4 @@
-# Precarious Work
+# Unstable Work is All Too Common, Especially for Black Women
 
 4 charts and a tool for exploring precarity of Black women's occupations.
 
